@@ -19,3 +19,5 @@ CAMS uses cameras positioned at the entryways of the classroom to monitor traffi
 * HD Webcam Camera
 * NVIDIA Jetson TK1 GPU Development Board
 * OpenCV - Image Processing Library
+
+~Abhishek Patel and Zarir Hamza, 2017
