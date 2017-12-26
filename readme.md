@@ -24,6 +24,26 @@ CAMS uses cameras positioned at the entryways of the classroom to monitor traffi
 * OpenCV - Image Processing Library
 
 ~Abhishek Patel and Zarir Hamza, 2017
+### Requirements
+1. Python 2.7
+2. OpenCV 3.3.1
+3. PIL - Python Imaging Library, now Pillow
+4. NumPy, latest version
+5. Webcam *must* be **640 x 480** or better
 
+## Usage
+Run CAMS.py 
+Selection Camera:
+      
+      Select a task:
+            1. Laptop
+            2. Webcam 
+Select Options:
 
+      Select a task:
+            1. Add People to Database
+            2. Train Recognizer
+            3. Recognizer
+            4. Quit  
+In case of errors, refer back to **Requirements**, or email **abhi12.p@gmail.com**
 
