@@ -45,5 +45,5 @@ Select Options:
             2. Train Recognizer
             3. Recognizer
             4. Quit  
-In case of errors, refer back to **Requirements**, or email **abhi12.p@gmail.com**
+In case of errors, refer back to **Requirements**, or email **abhi12.p@gmail.com** or **zarir1999@gmail.com**.
 
